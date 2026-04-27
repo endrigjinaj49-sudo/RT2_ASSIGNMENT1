@@ -1,0 +1,12 @@
+float64 x
+float64 y
+float64 theta
+---
+bool success
+string message
+---
+float64 current_x
+float64 current_y
+float64 current_theta
+float64 distance_remaining
+float64 heading_error
